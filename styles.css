@@ -29,11 +29,6 @@ letter-spacing: 1px;
 }
 #t-image{
 	text-align:center;
-	display:relative;
-}
-img{
-	display:absolute;
-	margin-left: 30%;	
 }
 .green{
 	background-color: green;
